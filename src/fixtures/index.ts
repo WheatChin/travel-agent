@@ -1,0 +1,1 @@
+export { beijingFixture } from "./beijing";

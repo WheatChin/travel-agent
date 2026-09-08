@@ -1,0 +1,65 @@
+[
+  {
+    "path": "/images/forbidden-city.jpg",
+    "title": "Hall of Supreme Harmony",
+    "creator": "Gisling",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hall_of_Supreme_Harmony.JPG",
+    "changes": "Wikimedia-provided thumbnail; displayed with layout cropping."
+  },
+  {
+    "path": "/images/jingshan-park.jpg",
+    "title": "Fulan Pavilion (Jingshan Park)",
+    "creator": "EditQ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fulan_Pavilion_(Jingshan_Park).jpg",
+    "changes": "Wikimedia-provided thumbnail; displayed with layout cropping."
+  },
+  {
+    "path": "/images/temple-of-heaven.jpg",
+    "title": "20200110 Temple of Heaven-1",
+    "creator": "Balon Greyjoy",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20200110_Temple_of_Heaven-1.jpg",
+    "changes": "Wikimedia-provided thumbnail; displayed with layout cropping."
+  },
+  {
+    "path": "/images/qianmen-street.jpg",
+    "title": "Qianmen Street 2",
+    "creator": "poeloq",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qianmen_Street_2.jpg",
+    "changes": "Original file; displayed with layout cropping."
+  },
+  {
+    "path": "/images/summer-palace.jpg",
+    "title": "Longevity Hill of the Summer Palace",
+    "creator": "xiquinhosilva",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Longevity_Hill_of_the_Summer_Palace.jpg",
+    "changes": "Wikimedia-provided thumbnail; displayed with layout cropping."
+  },
+  {
+    "path": "/images/old-summer-palace.jpg",
+    "title": "Ruins of Old Summer Palace (Yuanmingyuan) - 2019 - 11",
+    "creator": "Leiem",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruins_of_Old_Summer_Palace_(Yuanmingyuan)_-_2019_-_11.jpg",
+    "changes": "Wikimedia-provided thumbnail; displayed with layout cropping."
+  },
+  {
+    "path": "/images/beihai-park.jpg",
+    "title": "Peking Beihai Park-20131229-RM-151208",
+    "creator": "Reinhold Moller (Ermell)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peking_Beihai_Park-20131229-RM-151208.jpg",
+    "changes": "Wikimedia-provided thumbnail; displayed with layout cropping."
+  }
+]
